@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Point()
+comment1.params=a\ b
+comment1.target=Point(int,\ int)
+comment2.params=points\ n
+comment2.target=boolean\ isConvex(Point[],\ int)
+comment3.params=a\ b\ c
+comment3.target=float\ getCrossProduct(Point,\ Point,\ Point)
+comment4.params=points\ n
+comment4.target=boolean\ isLinear(Point[],\ int)
+numComments=5

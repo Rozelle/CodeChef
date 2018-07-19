@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=p1\ p2
+comment1.target=double\ dist(Point,\ Point)
+comment2.params=i\ j\ k
+comment2.target=double\ cost(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ minTriangulationCost()
+comment4.params=i\ j\ count\ index
+comment4.target=void\ printTriangles(int,\ int,\ int,\ int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
